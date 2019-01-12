@@ -17,8 +17,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
-          </a>
+            Changed to feature branch
+           </a>
         </header>
       </div>
     );
